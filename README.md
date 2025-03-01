@@ -1,5 +1,8 @@
 # Diabetes ML Prediction
 
+![diabetes](https://github.com/user-attachments/assets/a5785715-62b5-4ab1-a4c9-01059367c87f)
+
+
 **Business Problem**
 It is desired to develop a machine learning model that can predict whether people have diabetes when their features are specified. Before developing the model, you are expected to perform the necessary data analysis and feature engineering steps.
 
